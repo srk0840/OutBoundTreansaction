@@ -1,7 +1,7 @@
 package com.example.demo.Pojo;
 
 public class Read_GIN {
-	
+	//hey
 	private String file_name;
 	private String file_path;
 	/**
